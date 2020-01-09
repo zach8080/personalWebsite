@@ -1,0 +1,29 @@
+body {
+    font-family: "Arial";
+    padding: 2% 20% 1% 20%;
+    background-color: #1b1b2c;
+    color: #8e8f99;
+    
+}
+
+.banner {
+
+    text-align: center;
+    padding: 2% 5% 1% 5%;
+    font-size: 30px;
+    font-weight: bold; 
+    padding: 2px 1px 5px 0px; 
+}
+
+.block {
+    font-size: 22px;
+    padding: 2px 1px 5px 0px;
+    
+}
+
+
+a {
+
+    color: #8e8f99;
+
+}
