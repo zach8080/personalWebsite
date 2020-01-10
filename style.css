@@ -4,6 +4,7 @@ body {
     background-color: #1b1b2c;
     color: #8e8f99;
     
+    
 }
 
 .banner {
@@ -18,12 +19,25 @@ body {
 .block {
     font-size: 22px;
     padding: 2px 1px 5px 0px;
-    
+
 }
 
-
 a {
-
     color: #8e8f99;
+}
 
+.navbar {
+    overflow: hidden;
+    background-color:  #1b1b2c;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
 }
