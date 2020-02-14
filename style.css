@@ -18,6 +18,16 @@ h3, h4, p, ul, img, li {
     margin-right: 2%;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid white;
+    font-size: 15px;
+    padding: 7xpx;
+}
+
 
 .block {
     font-size: 18px;
