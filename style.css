@@ -2,7 +2,7 @@ body {
     font-family: "Arial";
     padding: 2% 20% 1% 20%;
     background-color: #1b1b2c;
-    color: #8e8f99;   
+    color: #cac7d6;   
 }
 
 .banner {
@@ -30,8 +30,8 @@ table, th, td {
 
 
 .block {
-    font-size: 18px;
-    padding: 2px 1px 5px 0px;
+    font-size: 17px;
+    padding: 1px 0px 1px 0px;
     border-style: none double;
 
 }
