@@ -17,9 +17,6 @@ Thumbs.db
 # Node modules
 node_modules/
 
-# Tailwind CSS build output
-assets/css/main.css
-assets/css/main.css.map
 
 # VS Code settings
 .vscode/
