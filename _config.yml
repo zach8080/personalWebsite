@@ -3,4 +3,5 @@ sass:
 # _config.yml
 title: Zachary Dawood
 description: A brief description of your site
-url: "https://zach8080.github.io/personalWebsite/" # Your GitHub Pages URL
+baseurl: ""
+url: "https://zach8080.github.io" # Your GitHub Pages URL
