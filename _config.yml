@@ -1,2 +1,6 @@
 sass:
   sass_dir: _sass
+# _config.yml
+title: Zachary Dawood
+description: A brief description of your site
+url: "https://zach8080.github.io/personalWebsite/" # Your GitHub Pages URL
