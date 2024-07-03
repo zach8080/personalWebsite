@@ -5,3 +5,4 @@ title: Zachary Dawood
 description: A brief description of your site
 baseurl: ""
 url: "https://zach8080.github.io" # Your GitHub Pages URL
+destination: _site
