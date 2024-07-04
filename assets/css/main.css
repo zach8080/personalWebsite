@@ -669,10 +669,6 @@ video {
   margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
-.rounded-\[12px\] {
-  border-radius: 12px;
-}
-
 .rounded {
   border-radius: 0.25rem;
 }
@@ -785,6 +781,10 @@ video {
   padding-bottom: 2rem;
 }
 
+.pt-2 {
+  padding-top: 0.5rem;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -793,6 +793,16 @@ video {
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
+}
+
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 .text-gray-700 {
